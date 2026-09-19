@@ -1,0 +1,13 @@
+theme: minima
+
+title: Willy A. Takang
+description: Lead Platform Engineer | Network Visibility
+author: Willy A. Takang
+
+header_pages:
+  - privacy-policy.md
+
+minima:
+  skin: dark
+
+show_excerpts: false
